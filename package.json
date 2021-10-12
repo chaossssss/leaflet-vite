@@ -1,0 +1,22 @@
+{
+  "name": "leaflet-vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "leaflet": "^1.7.1",
+    "leaflet.chinesetmsproviders": "^1.0.22",
+    "leaflet.pm": "^2.2.0",
+    "less": "^4.1.2",
+    "proj4": "^2.7.5",
+    "proj4leaflet": "^1.0.2",
+    "vue": "^3.2.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "vite": "^2.6.4"
+  }
+}
